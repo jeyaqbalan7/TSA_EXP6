@@ -1,6 +1,3 @@
-### Name : Karthikeyan R
-### reg no : 212222240045
-### Date:
 # Ex.No: 6   HOLT WINTERS METHOD
 
 ## AIM:
